@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nabtv-dev-102417-authRole",
+      "UnauthRoleArn": "arn:aws:iam::261981654393:role/amplify-nabtv-dev-102417-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::261981654393:role/amplify-nabtv-dev-102417-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-nabtv-dev-102417-deployment",
+      "UnauthRoleName": "amplify-nabtv-dev-102417-unauthRole",
+      "StackName": "amplify-nabtv-dev-102417",
+      "StackId": "arn:aws:cloudformation:eu-central-1:261981654393:stack/amplify-nabtv-dev-102417/53b659b0-3092-11eb-b192-0a467f2d62ae",
+      "AmplifyAppId": "d1j3k7ysffitoi"
+    }
+  }
+}
